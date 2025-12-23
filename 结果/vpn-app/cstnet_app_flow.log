@@ -1,0 +1,3215 @@
+nohup: ignoring input
+The number of labels: 17
+False
+Layer: embedding.layer_norm.gamma | Frozen: False
+Layer: embedding.layer_norm.beta | Frozen: False
+Layer: embedding.word.embedding.weight | Frozen: False
+Layer: embedding.pos.embedding.weight | Frozen: False
+Layer: embedding.seg.embedding.weight | Frozen: False
+Layer: encoder.transformer.0.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.0.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.0.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.0.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.0.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.0.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.0.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.0.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.0.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.0.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.0.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.0.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.0.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.0.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.0.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.0.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.1.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.1.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.1.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.1.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.1.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.1.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.1.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.1.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.1.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.1.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.1.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.1.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.1.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.1.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.1.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.1.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.2.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.2.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.2.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.2.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.2.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.2.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.2.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.2.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.2.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.2.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.2.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.2.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.2.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.2.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.2.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.2.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.3.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.3.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.3.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.3.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.3.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.3.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.3.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.3.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.3.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.3.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.3.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.3.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.3.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.3.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.3.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.3.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.4.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.4.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.4.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.4.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.4.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.4.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.4.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.4.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.4.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.4.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.4.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.4.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.4.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.4.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.4.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.4.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.5.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.5.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.5.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.5.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.5.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.5.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.5.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.5.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.5.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.5.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.5.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.5.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.5.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.5.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.5.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.5.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.6.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.6.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.6.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.6.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.6.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.6.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.6.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.6.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.6.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.6.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.6.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.6.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.6.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.6.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.6.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.6.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.7.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.7.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.7.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.7.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.7.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.7.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.7.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.7.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.7.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.7.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.7.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.7.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.7.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.7.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.7.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.7.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.8.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.8.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.8.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.8.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.8.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.8.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.8.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.8.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.8.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.8.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.8.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.8.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.8.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.8.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.8.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.8.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.9.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.9.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.9.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.9.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.9.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.9.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.9.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.9.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.9.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.9.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.9.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.9.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.9.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.9.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.9.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.9.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.10.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.10.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.10.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.10.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.10.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.10.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.10.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.10.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.10.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.10.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.10.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.10.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.10.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.10.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.10.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.10.layer_norm_2.beta | Frozen: False
+Layer: encoder.transformer.11.self_attn.linear_layers.0.weight | Frozen: False
+Layer: encoder.transformer.11.self_attn.linear_layers.0.bias | Frozen: False
+Layer: encoder.transformer.11.self_attn.linear_layers.1.weight | Frozen: False
+Layer: encoder.transformer.11.self_attn.linear_layers.1.bias | Frozen: False
+Layer: encoder.transformer.11.self_attn.linear_layers.2.weight | Frozen: False
+Layer: encoder.transformer.11.self_attn.linear_layers.2.bias | Frozen: False
+Layer: encoder.transformer.11.self_attn.final_linear.weight | Frozen: False
+Layer: encoder.transformer.11.self_attn.final_linear.bias | Frozen: False
+Layer: encoder.transformer.11.feed_forward.linear_1.weight | Frozen: False
+Layer: encoder.transformer.11.feed_forward.linear_1.bias | Frozen: False
+Layer: encoder.transformer.11.feed_forward.linear_2.weight | Frozen: False
+Layer: encoder.transformer.11.feed_forward.linear_2.bias | Frozen: False
+Layer: encoder.transformer.11.layer_norm_1.gamma | Frozen: False
+Layer: encoder.transformer.11.layer_norm_1.beta | Frozen: False
+Layer: encoder.transformer.11.layer_norm_2.gamma | Frozen: False
+Layer: encoder.transformer.11.layer_norm_2.beta | Frozen: False
+Layer: output_layer_1.weight | Frozen: False
+Layer: output_layer_1.bias | Frozen: False
+Layer: output_layer_2.weight | Frozen: False
+Layer: output_layer_2.bias | Frozen: False
+GPU OK
+Batch size:  32
+The number of training instances: 1397
+Start training.
+  0%|          | 0/100 [00:00<?, ?it/s]
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  2%|▏         | 1/43 [00:00<00:15,  2.69it/s][A
+  7%|▋         | 3/43 [00:00<00:06,  6.06it/s][A
+ 12%|█▏        | 5/43 [00:00<00:04,  7.83it/s][A
+ 16%|█▋        | 7/43 [00:00<00:04,  8.86it/s][A
+ 21%|██        | 9/43 [00:01<00:03,  9.48it/s][A
+ 26%|██▌       | 11/43 [00:01<00:03,  9.91it/s][A
+ 30%|███       | 13/43 [00:01<00:02, 10.19it/s][A
+ 35%|███▍      | 15/43 [00:01<00:02, 10.38it/s][A
+ 40%|███▉      | 17/43 [00:01<00:02, 10.51it/s][A
+ 44%|████▍     | 19/43 [00:02<00:02, 10.60it/s][A
+ 49%|████▉     | 21/43 [00:02<00:02, 10.66it/s][A
+ 53%|█████▎    | 23/43 [00:02<00:01, 10.66it/s][A
+ 58%|█████▊    | 25/43 [00:02<00:01, 10.71it/s][A
+ 63%|██████▎   | 27/43 [00:02<00:01, 10.73it/s][A
+ 67%|██████▋   | 29/43 [00:02<00:01, 10.76it/s][A
+ 72%|███████▏  | 31/43 [00:03<00:01, 10.77it/s][A
+ 77%|███████▋  | 33/43 [00:03<00:00, 10.77it/s][A
+ 81%|████████▏ | 35/43 [00:03<00:00, 10.76it/s][A
+ 86%|████████▌ | 37/43 [00:03<00:00, 10.76it/s][A
+ 91%|█████████ | 39/43 [00:03<00:00, 10.76it/s][A
+ 95%|█████████▌| 41/43 [00:04<00:00, 10.77it/s][A
+100%|██████████| 43/43 [00:04<00:00, 10.77it/s][A44it [00:04, 10.14it/s]                        
+  1%|          | 1/100 [00:06<11:17,  6.84s/it]Epoch id: 1, Epoch loss: 2.686
+Acc. (Correct/Total): 0.1781 (83/466) 
+Precision:  0.010477151721715927
+Recall:  0.05882352963089943
+F1 Score: 0.0178
+Inference time: 0.1617
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.44it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.61it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.69it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.75it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.76it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.78it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.78it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.78it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.78it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.78it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.78it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.77it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.76it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.77it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.77it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.77it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.77it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.77it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.77it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.77it/s][A
+44it [00:04, 11.25it/s]                        [A44it [00:04, 10.83it/s]
+  2%|▏         | 2/100 [00:13<10:50,  6.64s/it]Epoch id: 2, Epoch loss: 2.528
+Acc. (Correct/Total): 0.3584 (167/466) 
+Precision:  0.10560470074415207
+Recall:  0.1707402467727661
+F1 Score: 0.1209
+Inference time: 0.1428
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.65it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.76it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.76it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.77it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.77it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.78it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.78it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.78it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.78it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.78it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.78it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.78it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.77it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.77it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.77it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.77it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.77it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.77it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.77it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.77it/s][A
+44it [00:04, 11.25it/s]                        [A44it [00:04, 10.84it/s]
+  3%|▎         | 3/100 [00:19<10:38,  6.58s/it]Epoch id: 3, Epoch loss: 2.038
+Acc. (Correct/Total): 0.3884 (181/466) 
+Precision:  0.1500367820262909
+Recall:  0.22394539415836334
+F1 Score: 0.1490
+Inference time: 0.1420
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.51it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.67it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.75it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.76it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.76it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.77it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.76it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.77it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.77it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.77it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.76it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.77it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.77it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.77it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.77it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.76it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.76it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.75it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.76it/s][A
+44it [00:04, 11.23it/s]                        [A44it [00:04, 10.82it/s]
+  4%|▍         | 4/100 [00:26<10:28,  6.55s/it]Epoch id: 4, Epoch loss: 1.536
+Acc. (Correct/Total): 0.5408 (252/466) 
+Precision:  0.3300575315952301
+Recall:  0.3640480637550354
+F1 Score: 0.3075
+Inference time: 0.1429
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.55it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.70it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.76it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.77it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.78it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.78it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.78it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.78it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.78it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.78it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.77it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.78it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.79it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.78it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.78it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.79it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.78it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.78it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.78it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.77it/s][A
+44it [00:04, 11.25it/s]                        [A44it [00:04, 10.84it/s]
+  5%|▌         | 5/100 [00:32<10:21,  6.54s/it]Epoch id: 5, Epoch loss: 1.229
+Acc. (Correct/Total): 0.5515 (257/466) 
+Precision:  0.3422899842262268
+Recall:  0.39801719784736633
+F1 Score: 0.3420
+Inference time: 0.1419
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.55it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.70it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.76it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.76it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.76it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.76it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.77it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.77it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.77it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.77it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.77it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.76it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.77it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.77it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.77it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.77it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.77it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.77it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.76it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.77it/s][A
+44it [00:04, 11.24it/s]                        [A44it [00:04, 10.83it/s]
+  6%|▌         | 6/100 [00:39<10:13,  6.53s/it]Epoch id: 6, Epoch loss: 1.098
+Acc. (Correct/Total): 0.6459 (301/466) 
+Precision:  0.3915926516056061
+Recall:  0.45184949040412903
+F1 Score: 0.4071
+Inference time: 0.1420
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.55it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.69it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.76it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.76it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.76it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.76it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.76it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.77it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.76it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.77it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.77it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.77it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.77it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.77it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.77it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.76it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.76it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.76it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.75it/s][A
+44it [00:04, 11.24it/s]                        [A44it [00:04, 10.82it/s]
+  7%|▋         | 7/100 [00:44<09:38,  6.22s/it]Epoch id: 7, Epoch loss: 0.952
+Acc. (Correct/Total): 0.6180 (288/466) 
+Precision:  0.5035717487335205
+Recall:  0.46758073568344116
+F1 Score: 0.4362
+Inference time: 0.1421
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.78it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.54it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.64it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.69it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.74it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.75it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.76it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.76it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.76it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.76it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.76it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.76it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.76it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.76it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.76it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.76it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.76it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.75it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.75it/s][A
+44it [00:04, 11.23it/s]                        [A44it [00:04, 10.81it/s]
+  8%|▊         | 8/100 [00:51<09:41,  6.32s/it]Epoch id: 8, Epoch loss: 0.788
+Acc. (Correct/Total): 0.7210 (336/466) 
+Precision:  0.554582417011261
+Recall:  0.5373485088348389
+F1 Score: 0.5178
+Inference time: 0.1415
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.53it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.66it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.71it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.75it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.75it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.74it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.74it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.74it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.75it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.75it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.75it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.75it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.75it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.75it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.75it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.76it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.76it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.76it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.77it/s][A
+44it [00:04, 11.25it/s]                        [A44it [00:04, 10.81it/s]
+  9%|▉         | 9/100 [00:57<09:14,  6.09s/it]Epoch id: 9, Epoch loss: 0.596
+Acc. (Correct/Total): 0.7167 (334/466) 
+Precision:  0.5087288618087769
+Recall:  0.5021556615829468
+F1 Score: 0.4754
+Inference time: 0.1420
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.77it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.76it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.76it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.76it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.76it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.76it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.75it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.75it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.75it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.75it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.75it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.74it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.74it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.74it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.74it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.74it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.74it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.75it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.74it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.75it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.74it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.81it/s]
+ 10%|█         | 10/100 [01:02<08:54,  5.93s/it]Epoch id: 10, Epoch loss: 0.626
+Acc. (Correct/Total): 0.7082 (330/466) 
+Precision:  0.5424003601074219
+Recall:  0.5360546112060547
+F1 Score: 0.5187
+Inference time: 0.1417
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.78it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.77it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.76it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.75it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.75it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.75it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.75it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.75it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.75it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.74it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.74it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.75it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.74it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.74it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.74it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.75it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.75it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.75it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.74it/s][A
+44it [00:04, 11.22it/s]                        [A44it [00:04, 10.81it/s]
+ 11%|█         | 11/100 [01:08<08:38,  5.83s/it]Epoch id: 11, Epoch loss: 0.550
+Acc. (Correct/Total): 0.6438 (300/466) 
+Precision:  0.5742470026016235
+Recall:  0.5478689670562744
+F1 Score: 0.5158
+Inference time: 0.1417
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.77it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.76it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.76it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.75it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.75it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.74it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.74it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.74it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.74it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.74it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.74it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.74it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.74it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.74it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.74it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.74it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.74it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.75it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.75it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.74it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.74it/s][A
+44it [00:04, 11.22it/s]                        [A44it [00:04, 10.81it/s]
+ 12%|█▏        | 12/100 [01:14<08:51,  6.04s/it]Epoch id: 12, Epoch loss: 0.536
+Acc. (Correct/Total): 0.7468 (348/466) 
+Precision:  0.6066040992736816
+Recall:  0.5961285829544067
+F1 Score: 0.5949
+Inference time: 0.1422
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.50it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.65it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.70it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.74it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.74it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.74it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 13%|█▎        | 13/100 [01:21<08:57,  6.18s/it]Epoch id: 13, Epoch loss: 0.405
+Acc. (Correct/Total): 0.7725 (360/466) 
+Precision:  0.678239643573761
+Recall:  0.5852563977241516
+F1 Score: 0.5962
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.46it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.63it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.68it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.70it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.22it/s]                        [A44it [00:04, 10.79it/s]
+ 14%|█▍        | 14/100 [01:27<09:00,  6.28s/it]Epoch id: 14, Epoch loss: 0.232
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6955463290214539
+Recall:  0.6174038648605347
+F1 Score: 0.6222
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.52it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.65it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.69it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.70it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.74it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.74it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.74it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 15%|█▌        | 15/100 [01:33<08:36,  6.08s/it]Epoch id: 15, Epoch loss: 0.140
+Acc. (Correct/Total): 0.7618 (355/466) 
+Precision:  0.7147204875946045
+Recall:  0.6803077459335327
+F1 Score: 0.6697
+Inference time: 0.1416
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.77it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.74it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.75it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.75it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.74it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.74it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.74it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.74it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.74it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.74it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.74it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.74it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.74it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.74it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.74it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.74it/s][A
+44it [00:04, 11.22it/s]                        [A44it [00:04, 10.81it/s]
+ 16%|█▌        | 16/100 [01:38<08:18,  5.93s/it]Epoch id: 16, Epoch loss: 0.122
+Acc. (Correct/Total): 0.7210 (336/466) 
+Precision:  0.7114381790161133
+Recall:  0.6476645469665527
+F1 Score: 0.6416
+Inference time: 0.1419
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.76it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.75it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.75it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.74it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.74it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.74it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.74it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.74it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.74it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.74it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.74it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.74it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.74it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.81it/s]
+ 17%|█▋        | 17/100 [01:44<08:03,  5.83s/it]Epoch id: 17, Epoch loss: 0.110
+Acc. (Correct/Total): 0.6867 (320/466) 
+Precision:  0.7358067631721497
+Recall:  0.6155341267585754
+F1 Score: 0.6172
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.78it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.76it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.74it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.74it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.74it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.74it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.74it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.81it/s]
+ 18%|█▊        | 18/100 [01:50<07:51,  5.76s/it]Epoch id: 18, Epoch loss: 0.106
+Acc. (Correct/Total): 0.6760 (315/466) 
+Precision:  0.7036597728729248
+Recall:  0.6553330421447754
+F1 Score: 0.6214
+Inference time: 0.1415
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.77it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.75it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.74it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.74it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.74it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.74it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.74it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.74it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.74it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.80it/s]
+ 19%|█▉        | 19/100 [01:55<07:42,  5.71s/it]Epoch id: 19, Epoch loss: 0.081
+Acc. (Correct/Total): 0.6867 (320/466) 
+Precision:  0.7422506809234619
+Recall:  0.6416758894920349
+F1 Score: 0.6399
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.74it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.80it/s]
+ 20%|██        | 20/100 [02:01<07:34,  5.68s/it]Epoch id: 20, Epoch loss: 0.075
+Acc. (Correct/Total): 0.7403 (345/466) 
+Precision:  0.6957974433898926
+Recall:  0.6674774885177612
+F1 Score: 0.6667
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.75it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.74it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.74it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.74it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.80it/s]
+ 21%|██        | 21/100 [02:07<07:48,  5.93s/it]Epoch id: 21, Epoch loss: 0.055
+Acc. (Correct/Total): 0.7854 (366/466) 
+Precision:  0.7002596855163574
+Recall:  0.6889237761497498
+F1 Score: 0.6785
+Inference time: 0.1410
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.42it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.62it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.67it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.70it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.71it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.74it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 22%|██▏       | 22/100 [02:13<07:34,  5.83s/it]Epoch id: 22, Epoch loss: 0.034
+Acc. (Correct/Total): 0.7618 (355/466) 
+Precision:  0.652177631855011
+Recall:  0.6023244857788086
+F1 Score: 0.6081
+Inference time: 0.1420
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.74it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.80it/s]
+ 23%|██▎       | 23/100 [02:19<07:23,  5.76s/it]Epoch id: 23, Epoch loss: 0.023
+Acc. (Correct/Total): 0.7833 (365/466) 
+Precision:  0.7046627998352051
+Recall:  0.6788831949234009
+F1 Score: 0.6816
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.56it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.62it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.66it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.68it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.70it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.78it/s]
+ 24%|██▍       | 24/100 [02:24<07:14,  5.71s/it]Epoch id: 24, Epoch loss: 0.015
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.698005199432373
+Recall:  0.6552435159683228
+F1 Score: 0.6618
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.74it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.80it/s]
+ 25%|██▌       | 25/100 [02:30<07:05,  5.68s/it]Epoch id: 25, Epoch loss: 0.015
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6959881782531738
+Recall:  0.6552435159683228
+F1 Score: 0.6612
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 26%|██▌       | 26/100 [02:35<06:58,  5.66s/it]Epoch id: 26, Epoch loss: 0.012
+Acc. (Correct/Total): 0.7725 (360/466) 
+Precision:  0.675532877445221
+Recall:  0.6621285676956177
+F1 Score: 0.6620
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.77it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.75it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.75it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.74it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.74it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.74it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.74it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.74it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.74it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.74it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.74it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.74it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.74it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.80it/s]
+ 27%|██▋       | 27/100 [02:41<06:51,  5.63s/it]Epoch id: 27, Epoch loss: 0.011
+Acc. (Correct/Total): 0.7790 (363/466) 
+Precision:  0.6926422119140625
+Recall:  0.6776780486106873
+F1 Score: 0.6763
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 28%|██▊       | 28/100 [02:47<06:44,  5.62s/it]Epoch id: 28, Epoch loss: 0.010
+Acc. (Correct/Total): 0.7790 (363/466) 
+Precision:  0.6908321976661682
+Recall:  0.6774021983146667
+F1 Score: 0.6745
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.80it/s]
+ 29%|██▉       | 29/100 [02:52<06:38,  5.61s/it]Epoch id: 29, Epoch loss: 0.010
+Acc. (Correct/Total): 0.7811 (364/466) 
+Precision:  0.6963015198707581
+Recall:  0.6847774386405945
+F1 Score: 0.6813
+Inference time: 0.1410
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 30%|███       | 30/100 [02:58<06:32,  5.61s/it]Epoch id: 30, Epoch loss: 0.009
+Acc. (Correct/Total): 0.7704 (359/466) 
+Precision:  0.6852570176124573
+Recall:  0.6670613884925842
+F1 Score: 0.6669
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.80it/s]
+ 31%|███       | 31/100 [03:03<06:26,  5.61s/it]Epoch id: 31, Epoch loss: 0.008
+Acc. (Correct/Total): 0.7725 (360/466) 
+Precision:  0.6860368251800537
+Recall:  0.6652640104293823
+F1 Score: 0.6669
+Inference time: 0.1408
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.74it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.80it/s]
+ 32%|███▏      | 32/100 [03:09<06:21,  5.61s/it]Epoch id: 32, Epoch loss: 0.008
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.689246416091919
+Recall:  0.6700799465179443
+F1 Score: 0.6710
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.74it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.74it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.74it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.74it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.74it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.80it/s]
+ 33%|███▎      | 33/100 [03:15<06:15,  5.60s/it]Epoch id: 33, Epoch loss: 0.008
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6870200037956238
+Recall:  0.6693713068962097
+F1 Score: 0.6695
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 34%|███▍      | 34/100 [03:20<06:09,  5.60s/it]Epoch id: 34, Epoch loss: 0.007
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6891485452651978
+Recall:  0.6700799465179443
+F1 Score: 0.6709
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.55it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.60it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.64it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.67it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.69it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.69it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.70it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.77it/s]
+ 35%|███▌      | 35/100 [03:26<06:04,  5.60s/it]Epoch id: 35, Epoch loss: 0.007
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6908974051475525
+Recall:  0.6693713068962097
+F1 Score: 0.6706
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 36%|███▌      | 36/100 [03:31<05:58,  5.60s/it]Epoch id: 36, Epoch loss: 0.006
+Acc. (Correct/Total): 0.7682 (358/466) 
+Precision:  0.6829214096069336
+Recall:  0.6637521386146545
+F1 Score: 0.6639
+Inference time: 0.1409
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.69it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.66it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.67it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.69it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.69it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.70it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.70it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.78it/s]
+ 37%|███▋      | 37/100 [03:37<05:52,  5.60s/it]Epoch id: 37, Epoch loss: 0.006
+Acc. (Correct/Total): 0.7725 (360/466) 
+Precision:  0.689700186252594
+Recall:  0.6681457757949829
+F1 Score: 0.6695
+Inference time: 0.1418
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 38%|███▊      | 38/100 [03:43<05:47,  5.60s/it]Epoch id: 38, Epoch loss: 0.006
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6892117857933044
+Recall:  0.6693713068962097
+F1 Score: 0.6706
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 39%|███▉      | 39/100 [03:48<05:41,  5.60s/it]Epoch id: 39, Epoch loss: 0.006
+Acc. (Correct/Total): 0.7704 (359/466) 
+Precision:  0.6827159523963928
+Recall:  0.6639441251754761
+F1 Score: 0.6637
+Inference time: 0.1410
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 40%|████      | 40/100 [03:54<05:35,  5.60s/it]Epoch id: 40, Epoch loss: 0.005
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6908186078071594
+Recall:  0.6700799465179443
+F1 Score: 0.6709
+Inference time: 0.1423
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 41%|████      | 41/100 [03:59<05:30,  5.60s/it]Epoch id: 41, Epoch loss: 0.005
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6908186078071594
+Recall:  0.6700799465179443
+F1 Score: 0.6709
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 42%|████▏     | 42/100 [04:05<05:24,  5.60s/it]Epoch id: 42, Epoch loss: 0.005
+Acc. (Correct/Total): 0.7725 (360/466) 
+Precision:  0.6883754730224609
+Recall:  0.6681457757949829
+F1 Score: 0.6688
+Inference time: 0.1409
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.70it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 43%|████▎     | 43/100 [04:11<05:19,  5.60s/it]Epoch id: 43, Epoch loss: 0.005
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6898993849754333
+Recall:  0.6693713068962097
+F1 Score: 0.6702
+Inference time: 0.1413
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 44%|████▍     | 44/100 [04:16<05:13,  5.60s/it]Epoch id: 44, Epoch loss: 0.005
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6908186078071594
+Recall:  0.6700799465179443
+F1 Score: 0.6709
+Inference time: 0.1410
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.70it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.78it/s]
+ 45%|████▌     | 45/100 [04:22<05:08,  5.60s/it]Epoch id: 45, Epoch loss: 0.005
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6864662766456604
+Recall:  0.6658782958984375
+F1 Score: 0.6665
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.76it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.75it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 46%|████▌     | 46/100 [04:27<05:02,  5.60s/it]Epoch id: 46, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.692528247833252
+Recall:  0.6700799465179443
+F1 Score: 0.6716
+Inference time: 0.1413
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 47%|████▋     | 47/100 [04:33<04:56,  5.60s/it]Epoch id: 47, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.693855881690979
+Recall:  0.6700799465179443
+F1 Score: 0.6721
+Inference time: 0.1415
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.78it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.76it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.75it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.75it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.74it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 48%|████▊     | 48/100 [04:39<04:51,  5.60s/it]Epoch id: 48, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7682 (358/466) 
+Precision:  0.6832665205001831
+Recall:  0.6632353663444519
+F1 Score: 0.6637
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.70it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.18it/s]                        [A44it [00:04, 10.79it/s]
+ 49%|████▉     | 49/100 [04:44<04:45,  5.60s/it]Epoch id: 49, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7725 (360/466) 
+Precision:  0.6850845813751221
+Recall:  0.6646527647972107
+F1 Score: 0.6652
+Inference time: 0.1413
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 50%|█████     | 50/100 [04:50<04:40,  5.60s/it]Epoch id: 50, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6864662766456604
+Recall:  0.6658782958984375
+F1 Score: 0.6665
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 51%|█████     | 51/100 [04:55<04:34,  5.60s/it]Epoch id: 51, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6921257972717285
+Recall:  0.6700799465179443
+F1 Score: 0.6716
+Inference time: 0.1415
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 52%|█████▏    | 52/100 [05:01<04:28,  5.60s/it]Epoch id: 52, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1415
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.76it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 53%|█████▎    | 53/100 [05:07<04:23,  5.60s/it]Epoch id: 53, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6864662766456604
+Recall:  0.6658782958984375
+F1 Score: 0.6665
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.70it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.70it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 54%|█████▍    | 54/100 [05:12<04:17,  5.60s/it]Epoch id: 54, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6864662766456604
+Recall:  0.6658782958984375
+F1 Score: 0.6665
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 55%|█████▌    | 55/100 [05:18<04:12,  5.60s/it]Epoch id: 55, Epoch loss: 0.004
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.70it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 56%|█████▌    | 56/100 [05:23<04:06,  5.60s/it]Epoch id: 56, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.71it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.71it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.71it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 57%|█████▋    | 57/100 [05:29<04:00,  5.60s/it]Epoch id: 57, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.77it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.58it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.62it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.65it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.66it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.68it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.69it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.69it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.70it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.70it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.70it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.70it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.18it/s]                        [A44it [00:04, 10.76it/s]
+ 58%|█████▊    | 58/100 [05:35<03:55,  5.60s/it]Epoch id: 58, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.75it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.18it/s]                        [A44it [00:04, 10.79it/s]
+ 59%|█████▉    | 59/100 [05:40<03:49,  5.60s/it]Epoch id: 59, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 60%|██████    | 60/100 [05:46<03:43,  5.60s/it]Epoch id: 60, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6921257972717285
+Recall:  0.6700799465179443
+F1 Score: 0.6716
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.70it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.70it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 61%|██████    | 61/100 [05:51<03:38,  5.60s/it]Epoch id: 61, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6921257972717285
+Recall:  0.6700799465179443
+F1 Score: 0.6716
+Inference time: 0.1413
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.70it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 62%|██████▏   | 62/100 [05:57<03:32,  5.60s/it]Epoch id: 62, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.70it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.78it/s]
+ 63%|██████▎   | 63/100 [06:03<03:27,  5.60s/it]Epoch id: 63, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1409
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.74it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.80it/s]
+ 64%|██████▍   | 64/100 [06:08<03:21,  5.60s/it]Epoch id: 64, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 65%|██████▌   | 65/100 [06:14<03:15,  5.60s/it]Epoch id: 65, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.73it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.72it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.70it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.70it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.71it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.71it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.71it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.69it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.70it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.78it/s]
+ 66%|██████▌   | 66/100 [06:19<03:10,  5.60s/it]Epoch id: 66, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7725 (360/466) 
+Precision:  0.6866483688354492
+Recall:  0.6650612950325012
+F1 Score: 0.6661
+Inference time: 0.1409
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.78it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.75it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.71it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 67%|██████▋   | 67/100 [06:25<03:04,  5.60s/it]Epoch id: 67, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1413
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.73it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.74it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.74it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.80it/s]
+ 68%|██████▊   | 68/100 [06:31<02:59,  5.60s/it]Epoch id: 68, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1410
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.73it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.73it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.73it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.73it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.73it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.73it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.80it/s]
+ 69%|██████▉   | 69/100 [06:36<02:53,  5.60s/it]Epoch id: 69, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 70%|███████   | 70/100 [06:42<02:47,  5.60s/it]Epoch id: 70, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 71%|███████   | 71/100 [06:47<02:42,  5.60s/it]Epoch id: 71, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 72%|███████▏  | 72/100 [06:53<02:36,  5.60s/it]Epoch id: 72, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6894278526306152
+Recall:  0.6658782958984375
+F1 Score: 0.6678
+Inference time: 0.1409
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.78it/s]
+ 73%|███████▎  | 73/100 [06:59<02:31,  5.60s/it]Epoch id: 73, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1410
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.70it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.67it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.65it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.64it/s][A
+44it [00:04, 11.13it/s]                        [A44it [00:04, 10.77it/s]
+ 74%|███████▍  | 74/100 [07:04<02:25,  5.61s/it]Epoch id: 74, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1421
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.71it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.71it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.70it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.71it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.71it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.78it/s]
+ 75%|███████▌  | 75/100 [07:10<02:20,  5.60s/it]Epoch id: 75, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1425
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.71it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.71it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.71it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.71it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.71it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.71it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.78it/s]
+ 76%|███████▌  | 76/100 [07:15<02:14,  5.61s/it]Epoch id: 76, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1419
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 77%|███████▋  | 77/100 [07:21<02:08,  5.60s/it]Epoch id: 77, Epoch loss: 0.003
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1417
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 78%|███████▊  | 78/100 [07:27<02:03,  5.60s/it]Epoch id: 78, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1413
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 79%|███████▉  | 79/100 [07:32<01:57,  5.60s/it]Epoch id: 79, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1409
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.70it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.70it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.71it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.71it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.78it/s]
+ 80%|████████  | 80/100 [07:38<01:52,  5.60s/it]Epoch id: 80, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.71it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.69it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.70it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.78it/s]
+ 81%|████████  | 81/100 [07:43<01:46,  5.60s/it]Epoch id: 81, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1409
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.18it/s]                        [A44it [00:04, 10.78it/s]
+ 82%|████████▏ | 82/100 [07:49<01:40,  5.60s/it]Epoch id: 82, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.71it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 83%|████████▎ | 83/100 [07:55<01:35,  5.60s/it]Epoch id: 83, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1415
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 84%|████████▍ | 84/100 [08:00<01:29,  5.60s/it]Epoch id: 84, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1410
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.71it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.18it/s]                        [A44it [00:04, 10.78it/s]
+ 85%|████████▌ | 85/100 [08:06<01:24,  5.60s/it]Epoch id: 85, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 86%|████████▌ | 86/100 [08:11<01:18,  5.60s/it]Epoch id: 86, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1414
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 87%|████████▋ | 87/100 [08:17<01:12,  5.60s/it]Epoch id: 87, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.72it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 88%|████████▊ | 88/100 [08:23<01:07,  5.60s/it]Epoch id: 88, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 89%|████████▉ | 89/100 [08:28<01:01,  5.60s/it]Epoch id: 89, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7768 (362/466) 
+Precision:  0.6929866075515747
+Recall:  0.6700799465179443
+F1 Score: 0.6720
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.73it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.73it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.71it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 90%|█████████ | 90/100 [08:34<00:55,  5.60s/it]Epoch id: 90, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1410
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 91%|█████████ | 91/100 [08:39<00:50,  5.60s/it]Epoch id: 91, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 92%|█████████▏| 92/100 [08:45<00:44,  5.60s/it]Epoch id: 92, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1409
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.74it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 93%|█████████▎| 93/100 [08:51<00:39,  5.60s/it]Epoch id: 93, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1409
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.71it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.71it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.71it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 94%|█████████▍| 94/100 [08:56<00:33,  5.60s/it]Epoch id: 94, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.72it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.72it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.70it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.72it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 95%|█████████▌| 95/100 [09:02<00:27,  5.60s/it]Epoch id: 95, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.73it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.74it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.72it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 96%|█████████▌| 96/100 [09:07<00:22,  5.60s/it]Epoch id: 96, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1413
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.76it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.73it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.71it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.71it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.71it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.20it/s]                        [A44it [00:04, 10.79it/s]
+ 97%|█████████▋| 97/100 [09:13<00:16,  5.60s/it]Epoch id: 97, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1413
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.77it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.72it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.73it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.73it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.73it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.71it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.71it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.71it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+ 98%|█████████▊| 98/100 [09:18<00:11,  5.60s/it]Epoch id: 98, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1411
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.72it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.71it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.72it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.71it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.71it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.71it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.73it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.73it/s][A
+44it [00:04, 11.21it/s]                        [A44it [00:04, 10.79it/s]
+ 99%|█████████▉| 99/100 [09:24<00:05,  5.60s/it]Epoch id: 99, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1412
+
+  0%|          | 0/43 [00:00<?, ?it/s][A
+  5%|▍         | 2/43 [00:00<00:03, 10.75it/s][A
+  9%|▉         | 4/43 [00:00<00:03, 10.74it/s][A
+ 14%|█▍        | 6/43 [00:00<00:03, 10.74it/s][A
+ 19%|█▊        | 8/43 [00:00<00:03, 10.73it/s][A
+ 23%|██▎       | 10/43 [00:00<00:03, 10.73it/s][A
+ 28%|██▊       | 12/43 [00:01<00:02, 10.72it/s][A
+ 33%|███▎      | 14/43 [00:01<00:02, 10.72it/s][A
+ 37%|███▋      | 16/43 [00:01<00:02, 10.72it/s][A
+ 42%|████▏     | 18/43 [00:01<00:02, 10.72it/s][A
+ 47%|████▋     | 20/43 [00:01<00:02, 10.72it/s][A
+ 51%|█████     | 22/43 [00:02<00:01, 10.72it/s][A
+ 56%|█████▌    | 24/43 [00:02<00:01, 10.72it/s][A
+ 60%|██████    | 26/43 [00:02<00:01, 10.73it/s][A
+ 65%|██████▌   | 28/43 [00:02<00:01, 10.73it/s][A
+ 70%|██████▉   | 30/43 [00:02<00:01, 10.72it/s][A
+ 74%|███████▍  | 32/43 [00:02<00:01, 10.72it/s][A
+ 79%|███████▉  | 34/43 [00:03<00:00, 10.72it/s][A
+ 84%|████████▎ | 36/43 [00:03<00:00, 10.72it/s][A
+ 88%|████████▊ | 38/43 [00:03<00:00, 10.72it/s][A
+ 93%|█████████▎| 40/43 [00:03<00:00, 10.72it/s][A
+ 98%|█████████▊| 42/43 [00:03<00:00, 10.71it/s][A
+44it [00:04, 11.19it/s]                        [A44it [00:04, 10.79it/s]
+100%|██████████| 100/100 [09:30<00:00,  5.60s/it]100%|██████████| 100/100 [09:30<00:00,  5.70s/it]
+Epoch id: 100, Epoch loss: 0.002
+Acc. (Correct/Total): 0.7747 (361/466) 
+Precision:  0.6873270273208618
+Recall:  0.6658782958984375
+F1 Score: 0.6669
+Inference time: 0.1414
+Test set evaluation.
+Acc. (Correct/Total): 0.7575 (353/466) 
+Precision:  0.6626583337783813
+Recall:  0.6311841607093811
+F1 Score: 0.6326
+Inference time: 0.1414
